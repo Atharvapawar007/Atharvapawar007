@@ -1,213 +1,93 @@
-# Hi there, I'm Atharva Pawar 👋
+# Hi, I'm Atharva Pawar 👋
+
+B.Tech Computer Science Engineering (AI & ML), KITCoEK — Class of 2027
+Currently in TY AIML, based in Kolhapur, Maharashtra
+
+---
+
+## About Me
+
+- Studying Computer Science Engineering with a specialization in AI & ML
+- Interested in software engineering and full-stack web development
+- Building small projects to practice and apply what I learn
+- Working through **The Odin Project** curriculum alongside coursework
+
+---
+
+## Tech Stack
+
+**Languages:** Java, JavaScript, TypeScript, Python, HTML, CSS
+
+**Frameworks & Libraries:** React, React Native (Expo), Node.js, Express, Next.js
+
+**Databases:** MongoDB, MySQL
+
+**Tools:** Git, GitHub, VS Code, Linux, npm
+
+---
+
+## Projects
+
+Here are a few things I've built and am working on:
+
+**[Veritas](https://github.com/Atharvapawar007/Veritas)**
+A productivity app for students built with React Native, Expo, and TypeScript — focus timers, habit tracking, and daily planning.
+
+**[Nirvana](https://github.com/Atharvapawar007/Nirvana)**
+A guided meditation app with a minimal UI, offering curated audio sessions for sleep, stress, and focus.
+
+**[MP-3.1](https://github.com/Atharvapawar007/MP-3.1)**
+An app to help students track institution bus timings and routes.
+
+**[MP-3](https://github.com/Atharvapawar007/MP-3)**
+Semester 5 mini-project for the 2025–26 academic year (TY-AIML).
+
+**[Aptitude-Timer](https://github.com/Atharvapawar007/Aptitude-Timer)**
+A timed practice tool for aptitude tests, with question tracking across sessions.
+
+**[ML-Model-Interface](https://github.com/Atharvapawar007/ML-Model-Interface)**
+A simple interface for interacting with ML models.
+
+**[Calculator](https://github.com/Atharvapawar007/calculator)** · [Live Demo](https://atharvapawar007.github.io/calculator/)
+A calculator built with HTML, CSS, and JavaScript as part of The Odin Project.
+
+**[Tic Tac Toe](https://github.com/Atharvapawar007/Tic_Tac_Toe)** · [Live Demo](https://atharvapawar007.github.io/Tic_Tac_Toe/)
+A Tic Tac Toe game built using Factory Functions and the Module Pattern.
+
+**[Rock Paper Scissors](https://github.com/Atharvapawar007/Rock_Paper_Scissors)** · [Live Demo](https://atharvapawar007.github.io/Rock_Paper_Scissors/)
+A browser-based Rock Paper Scissors game with score tracking.
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+(AI+%26+ML)+Student;Aspiring+Software+Engineer;Full+Stack+Web+Developer;DSA+Enthusiast;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atharvapawar007&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvapawar007&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 🚀 About Me
-
-- 🎓 Computer Science Engineering (AI & ML) Student
-- 💻 Passionate about Software Engineering and Full Stack Development
-- 🌱 Currently learning **React, Node.js, Express, MongoDB, and Next.js**
-- 🧩 Regularly solving **Data Structures & Algorithms**
-- 🚀 Building projects to strengthen my software engineering skills
-- 📚 Currently following **The Odin Project**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,python" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" />
-</p>
-
-### 🗄️ Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🛠️ Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm" />
-</p>
-
----
-
-## 📚 Currently Learning
-
-- ⚛️ React
-- 🌐 Next.js
-- 🚀 Node.js
-- ⚡ Express.js
-- 🍃 MongoDB
-- 📦 REST APIs
-- 🧠 Advanced JavaScript
-- 📐 Object-Oriented Programming
-- 🧩 Data Structures & Algorithms
-
----
-
-## 🚀 Featured Projects
-
-### 🧮 Calculator
-
-A modern calculator built using **HTML, CSS, and JavaScript** featuring a clean UI and responsive button interactions.
-
-**🔗 Repository:**
-https://github.com/Atharvapawar007/calculator
-
-**🌐 Live Demo:**
-https://atharvapawar007.github.io/calculator/
-
----
-
-### 🎮 Tic Tac Toe
-
-A modular Tic Tac Toe game demonstrating clean JavaScript architecture using Factory Functions and the Module Pattern.
-
-**🔗 Repository:**
-https://github.com/Atharvapawar007/Tic_Tac_Toe
-
-**🌐 Live Demo:**
-https://atharvapawar007.github.io/Tic_Tac_Toe/
-
----
-
-### ✊📄✂️ Rock Paper Scissors
-
-A browser-based Rock Paper Scissors game built with **HTML, CSS, and JavaScript**, featuring an interactive UI and score tracking.
-
-**🔗 Repository:**
-https://github.com/Atharvapawar007/rock-paper-scissors
-
-**🌐 Live Demo:**
-https://atharvapawar007.github.io/rock-paper-scissors/
-
-
----
-
-### 🌐 More Projects Coming Soon...
-
-- Portfolio Website
-- Weather App
-- Full Stack Blog Platform
-- E-commerce Store
-- Chat Application
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Atharvapawar007&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharvapawar007&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Atharvapawar007&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Atharvapawar007&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharvapawar007&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## Currently Focused On
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Atharvapawar007&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
+- Improving problem-solving through consistent DSA practice
+- Deepening full-stack development skills (React, Node.js, Express, MongoDB)
+- Writing cleaner, more maintainable code
 
 ---
 
-## 📈 Contribution Graph
+## Connect With Me
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharvapawar007&theme=tokyo-night"/>
-
-</p>
+[GitHub](https://github.com/Atharvapawar007) · [LinkedIn](https://www.linkedin.com/in/atharvarohitpawar)
 
 ---
 
-## 💡 What I'm Working On
-
-- 🌐 Full Stack Web Development
-- 🧩 Improving Problem Solving Skills
-- 📚 Learning Modern JavaScript
-- 🚀 Building Better Projects
-- 📖 Writing Cleaner Code
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Complete The Odin Project
-- ✅ Master React
-- ✅ Learn Backend Development
-- ✅ Build Multiple Full Stack Projects
-- ✅ Solve 700+ DSA Problems
-- ✅ Create a Personal Portfolio Website
-
----
-
-## 🌍 Connect With Me
-
-<p>
-
-<a href="https://github.com/Atharvapawar007">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-</p>
-
----
-
-## 📊 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Atharvapawar007&color=blue)
-
----
-
-## ⚡ Fun Facts
-
-- ☕ I enjoy turning ideas into software.
-- 🧠 I love learning how things work under the hood.
-- 🚀 I believe consistency beats intensity.
-- 📚 I'm always exploring new technologies.
-
----
-
-## 💬 Favorite Quote
-
-> **"The expert in anything was once a beginner."** — Helen Hayes
-
----
-
-<p align="center">
-
-### ⭐ If you like my work, consider giving my repositories a star!
-
-Thanks for visiting my profile! 😊
-
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Atharvapawar007&color=blue)
