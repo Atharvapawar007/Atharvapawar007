@@ -54,7 +54,7 @@ A calculator built with HTML, CSS, and JavaScript as part of The Odin Project.
 **[Tic Tac Toe](https://github.com/Atharvapawar007/Tic_Tac_Toe)** · [Live Demo](https://atharvapawar007.github.io/Tic_Tac_Toe/)
 A Tic Tac Toe game built using Factory Functions and the Module Pattern.
 
-**[Rock Paper Scissors](https://github.com/Atharvapawar007/Rock_Paper_Scissors)** · [Live Demo](https://atharvapawar007.github.io/Rock_Paper_Scissors/)
+**[Rock Paper Scissors](https://github.com/Atharvapawar007/rock-paper-scissors)** · [Live Demo](https://atharvapawar007.github.io/rock-paper-scissors/)
 A browser-based Rock Paper Scissors game with score tracking.
 
 ---
