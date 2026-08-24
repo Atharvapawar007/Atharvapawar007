@@ -66,10 +66,10 @@
 A modern calculator built using **HTML, CSS, and JavaScript** featuring a clean UI and responsive button interactions.
 
 **🔗 Repository:**
-https://github.com/Atharvapawar007/Calculator
+https://github.com/Atharvapawar007/calculator
 
 **🌐 Live Demo:**
-https://atharvapawar007.github.io/Calculator/
+https://atharvapawar007.github.io/calculator/
 
 ---
 
