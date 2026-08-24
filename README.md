@@ -90,10 +90,10 @@ https://atharvapawar007.github.io/Tic_Tac_Toe/
 A browser-based Rock Paper Scissors game built with **HTML, CSS, and JavaScript**, featuring an interactive UI and score tracking.
 
 **🔗 Repository:**
-https://github.com/Atharvapawar007/Rock_Paper_Scissors
+https://github.com/Atharvapawar007/rock-paper-scissors
 
 **🌐 Live Demo:**
-https://atharvapawar007.github.io/Rock_Paper_Scissors/
+https://atharvapawar007.github.io/rock-paper-scissors/
 
 
 ---
