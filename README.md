@@ -1,7 +1,7 @@
 # Hi, I'm Atharva Pawar 👋
 
 B.Tech Computer Science Engineering (AI & ML), KITCoEK — Class of 2027
-Currently in TY AIML, based in Kolhapur, Maharashtra
+Currently in Final Year, based in Kolhapur, Maharashtra
 
 ---
 
